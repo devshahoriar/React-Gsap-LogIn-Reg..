@@ -1,0 +1,22 @@
+.mainInputBox {
+}
+
+.mainInputBox input {
+  border: none;
+  outline: none;
+  width: 100%;
+  background-color: azure;
+  padding: 8px 14px;
+  font-size: 25px;
+  border-left: 5px solid #097FF5;
+  margin-bottom: 20px;
+}
+.mainInputBox input:focus {
+  border: none;
+  outline: none;
+  border-left: 5px solid #097FF5;
+}
+::placeholder{
+  opacity: .5;
+  color: #D5D5D5;
+}

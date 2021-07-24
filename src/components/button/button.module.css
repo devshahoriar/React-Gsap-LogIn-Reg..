@@ -1,0 +1,18 @@
+.mainButton button{
+  background-color: #097FF5;
+  width: 100%;
+  color: white;
+  padding: 10px 0px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  border-radius: 20px;
+  
+
+}
+.mainButton{
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+.textBtn{
+  border: none;
+  outline: none;
+  color: #097FF5;
+  background-color: transparent;
+  width: initial !important;
+  cursor: pointer;
+  font-size: 15px;
+  margin-bottom: 25px;
+}

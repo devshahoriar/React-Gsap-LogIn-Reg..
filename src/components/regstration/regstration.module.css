@@ -1,0 +1,42 @@
+.mainReg{
+  width: 100%;
+  scale: 1;
+  opacity: 0;
+  transition:opacity .2s ;
+}
+.innerReg{
+  display: flex;
+}
+.innerReg > div{
+  width: 50%;
+  height: 100vh;
+}
+
+
+
+.textDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textDivInner{
+  width: 90%;
+}
+.textDivInner h1, .textDivInner p{
+  text-align: center;
+}
+
+.textDivInner h1{
+  color: #097FF5;
+  font-size: 50px;
+}
+ .textDivInner p{
+   color: rgba(255, 255, 255, 0.734);
+   margin: 30px 40px;
+
+ }
+ .textDivInner button{
+   width: 50%;
+ }
