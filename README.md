@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-!(/site_anm.gif "Site gif")
+![Site Gif!](https://raw.githubusercontent.com/shuvovai/React-Gsap-LogIn-Reg../main/site_anm.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
